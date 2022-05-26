@@ -2,9 +2,10 @@
 This repo is a practice exercise for Code Louisville students going through the Web Development 1 Course. The purpose of this exercise is to re-inforce using Git and Github while practicing adding CSS styles to a web page.
 
 ## Instructions
-1. Clone this repo to your local machine.
+1. Fork this repo to your own Github Account.
+1. Clone your forked repo to your local machine.
 2. Open up the `index.html` page in your browser.
-  - Optional: Use the `Live Server` Extension for VS Code to auto-update the page when you make changes
+   - Optional: Use the `Live Server` Extension for VS Code to auto-update the page when you make changes
 3. Create some CSS rules to style the index.html page. SOme recomendations of changes are supplied below, but feel free to make it your own.
 4. Be sure to add and commit your changes using git as you go.
 
